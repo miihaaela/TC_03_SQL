@@ -1,0 +1,6 @@
+.env
+credentials/
+venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
