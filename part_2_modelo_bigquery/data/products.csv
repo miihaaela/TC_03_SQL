@@ -1,0 +1,85 @@
+product_id,category_id,name,description,sale_price,cost_price,stock,is_active
+1,1,iPhone 15,Whom name something pull teach four whether. Young imagine young enter. What back win sign assume real.,1223.71,743.55,99,True
+2,1,iPhone 15 Pro,Area opportunity phone growth might. Happen worker it. Cold organization team case manage cut.,501.92,317.99,58,True
+3,1,iPhone 15 Pro Max,Respond individual may beyond. Size century career compare I main. Weight rise economy.,1424.23,1098.45,4,True
+4,1,iPhone 16,Share million recent operation it popular again official. Energy interview institution can.,888.26,685.37,108,True
+5,1,iPhone 16 Pro,Despite including of management moment. Risk focus evening kitchen business.,386.74,289.78,26,True
+6,1,Samsung Galaxy S24,Recent from common stop kid life unit. Floor artist produce four who machine ball. Political save while something.,1049.63,679.21,24,True
+7,1,Samsung Galaxy S24 Ultra,Material size analysis culture significant identify. Control that rise reach town option whether. Pretty activity public employee.,1377.26,1076.45,12,True
+8,1,Samsung Galaxy S25,Add clear read local activity. General experience democratic any their need much. Participant some great or fill.,1443.84,1171.83,121,True
+9,1,Samsung Galaxy A55,"Group again almost. Gas election five newspaper. Than we north across business. Citizen news task I third instead out action.
+With less ask drive.",1413.9,884.65,131,True
+10,1,Google Pixel 8,Food serious general service senior section. Page trip dog station floor.,767.94,640.37,52,True
+11,1,Google Pixel 8 Pro,"Tonight black wife full pressure agreement. Indeed increase case issue from computer.
+Agent admit wife how although. Effort pull change away.",427.22,304.16,127,True
+12,1,Google Pixel 9,Military key too region task realize phone. Husband individual safe.,1306.73,1000.49,42,True
+13,1,Xiaomi 14,Interesting wish employee keep they opportunity. Long eye in bit reason effort dream when. As policy describe.,722.89,463.03,99,False
+14,1,Xiaomi 14 Pro,Edge set air marriage woman window. Security either beyond shoulder apply card field. Myself who medical realize.,1221.37,741.53,129,True
+15,1,OnePlus 12,Police deal expert participant usually. After dream write easy east activity. Range she senior better foot everyone.,269.11,192.76,82,True
+16,2,MacBook Air M2,"Model whether week. Work today always health issue however year.
+Must wrong much I decision.",2083.72,1768.99,142,True
+17,2,MacBook Air M3,"Old Mrs outside. International left report lead force third.
+Bar still impact could center yes class.",791.03,557.58,140,True
+18,2,MacBook Pro 14 M3,Security continue determine hospital. Reveal little nearly person government course. Home sometimes well process speech.,1824.52,1306.37,83,True
+19,2,MacBook Pro 16 M3,"Poor hit create medical. Serve attention cultural thus.
+Camera cold along glass behavior trade specific.",777.06,495.67,150,True
+20,2,Dell XPS 13,"Without air sister remember third relationship visit.
+Green question data young ask affect Congress. American beat out trade decision.",975.19,713.99,23,True
+21,2,Dell XPS 15,"Life participant a toward may style. Return institution apply.
+Current it would heavy market factor writer. Because college public law human level.",2183.44,1713.04,104,True
+22,2,Dell Inspiron 15,Sell thought turn available herself great. Others value risk Democrat. Popular throw travel body left away long ago.,1168.73,834.27,117,True
+23,2,Lenovo ThinkPad E14,One cold reason why. No make major cultural design whole local. Office identify leg effort late protect.,927.42,567.46,98,True
+24,2,Lenovo ThinkPad X1 Carbon,Decade four could hotel. When team month crime parent floor I. Suggest would less wonder.,772.31,558.53,62,True
+25,2,Lenovo IdeaPad 5,Message foot its everyone machine issue couple. Religious dinner out tell force nor child entire. Source trial score other close go big.,1883.96,1430.52,98,True
+26,2,HP Pavilion 15,Either debate do society. Learn list sound our church page next. Low treat sure decision training.,1693.23,1356.37,72,False
+27,2,ASUS Zenbook 14,Individual administration occur send tonight play positive. Offer quality career reach TV. Describe staff explain son bed.,2117.33,1747.56,148,True
+28,3,iPad 10th Gen,Water and political than power his age. Wide suddenly certainly picture return glass bed. Responsibility majority turn brother.,862.43,539.54,47,True
+29,3,iPad Air,Chair wonder miss consumer design leader play. Suddenly next American significant fear almost marriage. Very live carry nice cultural.,828.29,616.77,13,True
+30,3,iPad Air M2,Less else authority course result. Man easy seek relationship economic. Education political arm short not court month.,1285.27,869.97,128,True
+31,3,iPad Pro 11,"Challenge few five impact either accept. Find western some green hope inside.
+Paper past test consumer prepare view. Both story offer its whatever.",861.0,561.07,2,True
+32,3,iPad Pro 13,Level begin person program. Traditional painting become well first.,437.67,285.7,149,True
+33,3,Samsung Galaxy Tab S9,Skin identify build themselves parent anyone.,889.22,597.97,8,True
+34,3,Samsung Galaxy Tab S9 Ultra,Sure seat only sit camera. Develop many part describe game claim prove.,547.42,341.18,20,True
+35,3,Samsung Galaxy Tab A9,Morning candidate couple community material project. Investment occur ok. Live particularly white.,1435.25,1007.31,149,True
+36,3,Lenovo Tab P12,Democratic friend occur former often. Wall similar wind still day official. Meeting single reveal treatment small.,737.92,586.47,110,False
+37,3,Xiaomi Pad 6,Go evidence result prevent several start. Left student difference win can her. Long middle pretty huge nice training.,858.94,588.62,117,False
+38,4,AirPods 2nd Gen,As hour reflect religious would school. Reveal gas data hand where hour capital care. We Republican including realize single.,388.12,272.34,18,True
+39,4,AirPods 3rd Gen,Smile capital rock pay prevent the trial. Much price way buy. Dark yourself body.,215.23,153.5,44,True
+40,4,AirPods Pro 2,"Outside mention oil who market fall detail. Listen make past citizen there real only.
+In three any foot. Job home project key artist stop gas.",452.35,374.13,23,True
+41,4,Sony WH-1000XM5,Statement north job opportunity test job like. Board bar budget.,157.13,123.39,146,True
+42,4,Sony WH-CH720N,Service hear several paper lose believe. Customer particular point strategy institution collection.,415.72,264.29,10,True
+43,4,Bose QuietComfort,Decide little meet enjoy quite dog. Here political know production sport beat.,488.15,410.66,76,True
+44,4,Bose QuietComfort Ultra,Few wall he indeed. Choice city reach affect writer rate base.,187.21,157.02,18,True
+45,4,JBL Live 660NC,Foreign success good draw reason generation situation. Activity others them might make oil record.,212.68,158.51,128,True
+46,4,JBL Flip 6,Week individual newspaper per structure poor. Detail perform concern interest throughout.,246.91,149.61,122,True
+47,4,Sonos Era 100,"Minute attack choose role mother within entire.
+Attention final issue care or add evening. Opportunity guy sign represent identify beautiful.",265.05,179.7,105,True
+48,5,PlayStation 5,Law worker analysis through make. Imagine move reach land nearly crime difference reduce.,778.9,597.45,5,True
+49,5,PlayStation 5 Slim,Why within after whether radio political. According shake view act offer company.,436.75,277.31,67,True
+50,5,Xbox Series X,Difference national begin war deal art. Understand meeting just decade thought instead. What at face evidence data.,118.49,79.55,140,True
+51,5,Xbox Series S,"Weight opportunity can call. Place edge alone ready. My issue us summer her stage.
+Investment wrong question which hot. Safe economic any PM.",275.03,187.0,1,True
+52,5,Nintendo Switch OLED,Baby PM three not month. Support truth paper.,838.96,566.58,48,True
+53,5,Nintendo Switch Lite,Open here fill economy year news we southern. Situation represent director hard.,930.36,693.95,102,True
+54,5,Steam Deck OLED,"Medical law direction tonight minute. Difference degree no goal style whatever our.
+Back window member late hundred with whose.",563.51,444.17,93,True
+55,5,ASUS ROG Ally,Simple door rest doctor friend whom growth. Accept result everyone recognize. Eight analysis that though Republican I along.,902.48,726.96,108,False
+56,5,Logitech G Pro X Superlight,Almost minute article eye. Yet situation reality unit yeah kind.,529.61,426.16,69,False
+57,5,Razer BlackShark V2,Everything culture whether argue rich decision relate. Technology if once few. Fish agree beautiful rest tough.,951.01,740.09,17,True
+58,5,Elgato Stream Deck,Artist admit war just anyone direction or. Approach rock gun nor despite five. Sense discussion political body according on trial.,432.03,356.04,24,True
+59,5,Corsair K70 RGB,Prove work artist laugh suggest method. Model character send bad.,698.91,506.15,61,True
+60,6,Apple MagSafe Charger,"Report subject apply. Data general ok police describe first group.
+Recent economic avoid physical beautiful history politics. Than art film happy.",32.21,26.8,103,True
+61,6,USB-C Fast Charger,General bag really see. Something entire fall available. Build star partner hair rule shoulder heart.,15.25,11.57,150,True
+62,6,Anker 65W Charger,Player number describe pull. Director cover quality he. Common the save how trade water lead. Build kind remember appear turn population.,57.48,37.64,24,True
+63,6,USB-C Hub 7-in-1,Talk heart military mention indicate rate security. Mission face every rather. Paper employee still teach seven poor figure.,238.99,201.42,94,True
+64,6,Lightning Cable,Serious mind month sure without. Him race majority economic discuss can tonight. Later suffer key compare personal owner.,257.94,169.03,60,True
+65,6,USB-C Cable 2m,Must place sport room. Order environment stop agreement any probably experience check. Yes month share nearly expect. Of probably rest fear girl.,70.93,56.6,127,True
+66,6,Samsung 25W Charger,Space song here hundred sense fall require. Hard wait now others story field campaign no. Situation least catch professional force thus detail.,57.22,38.41,21,True
+67,6,SanDisk 1TB SSD,So yourself third the key range. Wide commercial include contain mission carry difficult.,149.05,121.43,92,True
+68,6,Samsung 1TB SSD,Opportunity deal economy pass fight method. Body best theory politics newspaper process key.,243.23,173.79,128,True
+69,6,Logitech MX Master 3S,Beyond each meet. War movement chance church see. Operation play early trial enjoy bill instead.,159.6,108.82,37,True
+70,6,Apple Magic Keyboard,"Once number down. Leave front hold. Physical when clear put my pressure must.
+Receive head heart arrive left.",154.12,125.61,56,True
